@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Seungtae%20Oh&fontColor=FFFFFF&fontSize=36&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Seungtae%20Oh&fontSize=36&fontAlignY=35)
 
 I'm majoring in Computer Science at [SeoulTech](https://seoultech.ac.kr/).
 
@@ -20,4 +20,4 @@ Now I'm interested in AI & VR, studying TypeScript & React.
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=90&section=footer&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=90&section=footer&text=&fontSize=30&fontAlignY=80)
