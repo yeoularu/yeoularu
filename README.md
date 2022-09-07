@@ -10,11 +10,11 @@ Now I'm interested in AI & VR, studying TypeScript & React.
 
 <div align="center">
 
-## Skill
+### Skill
 
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Contact
+### Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:sjsjsj1246@gmail.com)](mailto:yeoularu@gmail.com)
 
