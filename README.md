@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Seungtae%20Oh&fontColor=FFFFFF&fontSize=36&fontAlignY=35)
 
-<!--
-**yeoularu/yeoularu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm majoring in Computer Science at [SeoulTech](https://seoultech.ac.kr/).
 
-Here are some ideas to get you started:
+I want to be a web-frontend developer, who is reliable and responsible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I'm interested in AI & VR, studying TypeScript & React.
+
+---
+
+<div align="center">
+
+## Skill
+
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:sjsjsj1246@gmail.com)](mailto:yeoularu@gmail.com)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=90&section=footer&text=&fontColor=FFFFFF&fontSize=30&fontAlignY=80)
