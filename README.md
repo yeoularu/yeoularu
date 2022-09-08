@@ -16,7 +16,7 @@ Now I'm interested in AI & VR, studying TypeScript & React.
 
 ### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:sjsjsj1246@gmail.com)](mailto:yeoularu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeoularu@gmail.com)](mailto:yeoularu@gmail.com)
 
 </div>
 
