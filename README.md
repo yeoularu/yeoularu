@@ -1,12 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Seungtae%20Oh&fontSize=36&fontAlignY=35)
-
-I'm majoring in Computer Science at [SeoulTech](https://seoultech.ac.kr/).
-
-I want to be a web-frontend developer, who is reliable and responsible.
-
-Now I'm interested in AI & VR, studying TypeScript & React.
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=yeoularu&fontSize=36&fontAlignY=35)
 
 <div align="center">
 
